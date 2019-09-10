@@ -1,3 +1,3 @@
 # Plot GLM GOES 16!
 
-![alt text](https://ibb.co/PM7qX77)
+![alt text](https://i.imgur.com/M9qts5G.png)
